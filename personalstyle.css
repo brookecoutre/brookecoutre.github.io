@@ -1,25 +1,67 @@
-body {font-family:sans-serif;}
+body {
+	font-family: Avenir;
+}
+
+.circular {
+	width: 300px;
+	height: 300px;
+	border-radius: 150px;
+	border-radius: 150px;
+	border-radius: 150px;
+	background: url(https://dl.dropboxusercontent.com/s/mwcm9ryw3kr530r/personalphoto.jpg) no-repeat;
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+	background-size: cover;
+	margin-left: auto;
+	margin-right: auto;
+}
 
 h1 {font-size: 32px;
 	text-align:center;
 	font-weight:bold;
 	color:#9966FF;
-	text-transform:uppercase;}
+	text-transform:uppercase;
+}
 
 h2 {font-size:28px;
-	color:#00FF99;}
+	color: #9966FF;
+}
+
+
+#button {
+	height: 50px;
+	width: 100px;
+	border-color: #5CD6FF;
+	background-color: #B3F7EA;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 6px;
+	margin: auto;
+	text-align: center;
+	}
+
+a {
+	text-decoration: none;
+	font-family: Avenir;
+	text-align: center;
+	color: #1975FF;
+	}
+
+span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff;
+}
 
 h3 {font-size:24px;
-	font-family:serif;}
+	font-family: Avenir;}
 	
 h4 {font-size:20px;
-	font-family:serif;
-	font-style:italic;}
+	font-family: Avenir;
+	font-style: italic;}
 
 p {line-height:18px;}
 
-h4+p {background-color:#99CCFF;
-	color:black;
-	padding:10px 10px 10px 10px;
-	margin:10px;
-	top:0px;}
+
+	
