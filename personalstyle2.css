@@ -38,7 +38,7 @@ h3 {
 	font-family: Avenir;
 }	
 
-#button {
+.button {
 	height: 35px;
 	width: 90px;
 	border-color: #59FFDD;
@@ -59,7 +59,7 @@ a {
 }
 
 /* mouse over link */
-#button:hover { 
+.button:hover { 
 	background-color: #5971FF;
 }
 
