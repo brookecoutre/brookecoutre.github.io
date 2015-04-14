@@ -33,10 +33,9 @@ h3 {
 	text-align: center;
 } 
 
-ul {
-/*	line-height:20px;
+ ul {
+	line-height:20px;
 	font-family: Avenir;
-	text-align: center; */
 }	
 
 #button {
@@ -66,22 +65,25 @@ a {
 	background-color: #5971FF;
 }
 
-/* span {
-	font-weight: bold;
-	font-size: 18px;
-	color: #ffffff; 
-} */
+span a {
+	font-size:20px;
+	font-family: Avenir;
+	text-decoration: none;
+	color: #59FFDD; 
+	text-align: center;
+	display: block;
+	margin: 0 auto;
+}
 
 
 p {
 	line-height:20px;
 	font-family: Avenir;
-	
-#work {
-	font-size:20px;
-	font-family: Avenir;
-	text-decoration: none;
-	color: #59FFDD;
+}
+
+iframe {
+	display: block;
+	margin: 0 auto;
 }
 
 
