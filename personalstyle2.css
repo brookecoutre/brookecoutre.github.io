@@ -1,0 +1,89 @@
+body {font-family: Avenir;}
+
+.circular {
+width: 300px;
+height: 300px;
+border-radius: 150px;
+border-radius: 150px;
+border-radius: 150px;
+background: url(https://dl.dropboxusercontent.com/s/mwcm9ryw3kr530r/personalphoto.jpg) no-repeat;
+box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+background-size: cover;
+}
+
+h1 {font-size: 50px;
+	font-family: Avenir;
+	text-align: center;
+	font-weight: bold;
+	color: #66CCFF;
+	text-transform:uppercase;}
+	
+h2 {font-size:24px;
+	font-family: Avenir;
+	text-align: center;
+	color: #518EE8;
+}
+
+h3 {
+	font-size:16px;
+	font-family: Avenir;
+	color:#518EE8;
+	text-align: center;
+} 
+
+ul {
+/*	line-height:20px;
+	font-family: Avenir;
+	text-align: center; */
+}	
+
+#button {
+	height: 35px;
+	width: 90px;
+	border-color: #59FFDD;
+	background-color: #59FFDD;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 5px;
+	margin: auto;
+	text-align: center;
+	font-size:16px;
+	text-decoration: none;
+	}
+
+a {
+	text-decoration: none;
+	font-family: Avenir;
+	text-align: center;
+	color: #fffff;
+	text-transform: bold;
+}
+
+/* mouse over link */
+#button:hover { 
+	background-color: #5971FF;
+}
+
+/* span {
+	font-weight: bold;
+	font-size: 18px;
+	color: #ffffff; 
+} */
+
+
+p {
+	line-height:20px;
+	font-family: Avenir;
+	
+#work {
+	font-size:20px;
+	font-family: Avenir;
+	text-decoration: none;
+	color: #59FFDD;
+}
+
+
+
+	
