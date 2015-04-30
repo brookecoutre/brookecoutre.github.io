@@ -1,0 +1,168 @@
+.navbar-default {
+	background-color:#F5C700;
+	border-color:#FFF;
+}
+
+/* Label on left nav-bar */
+.navbar-default .navbar-brand {
+	color: #FFF;
+	 font-weight: bold;
+}
+
+.navbar-default .navbar-nav>li>a { color: #FFF;}
+
+
+
+.navbar-default .navbar-toggle .icon-bar { background-color: #FFF; }
+i.feature {	font-size:100px;}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+  color: #A14025;
+  background-color: #FFF;
+}
+
+.btn-burntorange {
+	background-color:#FFF;
+	border-color:#A14025;
+	color:#A14025;
+}
+
+.btn-orange {
+	background-color:#FFF;
+	border-color:#A14025;
+	color:#A14025;
+}
+
+.form-control {
+	border: 1px solid #FF5919;
+}
+
+.footer .btn-default {
+  color: #A14025;
+  background-color: #FFF;
+  border-color: #A14025;
+}
+
+#benefits {padding: 100px 0px; color:#A14025;}
+
+
+#hero {background-color:#FFF;color:#A14025;padding:100px 0px 80px 0px;}
+#hero h2 {font-size:5em;margin-bottom:.25em;}
+#hero p#subtitle {font-size:2.5em;margin-bottom:.5em;font-style:italic;}
+
+#hero p#hard-sell {margin-top:50px;font-size:1.75em;}
+
+#about {
+	padding: 50px 0px 50px 0;
+}
+
+#about h2 {
+	font-size: 3.5em;
+  	line-height: 1.5em;
+}
+
+#about #subtitle2 {margin-bottom:24px;}
+
+#about img {
+	background-color:#FFF;
+
+}
+
+#about .features {margin-top:24px;}
+
+/* #action {
+	padding:75px 0px;
+	background-color:#4C61FF;
+} 
+
+#action h2 {text-align:right;color:#FFF;}
+
+#action .input-group {margin-top:19px;}
+
+#action .btn-default {border:1px solid #FF5800;color:#FF5800;} */
+
+#faq {padding: 50px 0px 50px 0px;}
+#faq h2 {text-align:right;}
+
+#faq .panel-default>.panel-heading {
+  color: #A14025;
+  background-color: #FFF;
+  border-color: #A14025;
+}
+
+#faq .panel-default {
+  border-color: #A14025;
+}
+
+
+.footer {
+	background-color:#F5C700;
+	color:#FFF;
+	padding:30px 0px;
+}
+
+.footer small {color:#FFF;}
+
+.footer a {color:#A14025;}
+
+.footer .copyright {padding:25px 0 0 0px;}
+
+#buy figcaption {
+    font-size: 0.875em;
+    letter-spacing: .125em;
+    margin-top: 10px;
+    text-transform: uppercase
+}
+
+#buy li {
+    display: block;
+    max-width: 350px;
+    margin: 0 auto;
+    text-align: center;
+    width: 47%
+}
+
+#buy ul {
+    display: block;
+    margin: 0 auto
+}
+
+#buy ul:after {
+    clear: both;
+    content: '.';
+    display: block;
+    height: 0;
+    visibility: hidden
+}
+
+#buy .price {
+    font-size: 0.52632em;
+    color: #888;
+    display: block;
+    font-family: "Gotham SSm A", "Gotham SSm B", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    margin: 5px 0 17px
+}
+
+#detail .wrapper, #photos .wrapper {
+    max-width: 1120px
+}
+
+#detail .callout {
+    background: rgba(255, 255, 255, 0.9);
+    margin: 0 10px;
+    max-width: 530px;
+    padding: 20px 0;
+    width: 65%
+}
+
+#detail .callout h3, #detail .callout p {
+    padding: 0 30px
+}
+
+#detail .callout p {
+    font-size: 1.25em;
+    font-style: italic
+}
+
+
