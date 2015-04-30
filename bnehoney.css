@@ -61,6 +61,11 @@ i.feature {	font-size:100px;}
   	line-height: 1.5em;
 }
 
+#family h2 {
+	font-size:5em;margin-bottom:.25em;
+	color:#A14025;
+}
+
 #about #subtitle2 {margin-bottom:24px;}
 
 #about img {
